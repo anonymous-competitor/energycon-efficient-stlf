@@ -8,7 +8,7 @@
 
 ## Abstract
 
-Achieving efficient and accurate forecasting of household electricity consumption is challenging due to volatile usage patterns and resource-intensive training, yet it is essential for grid scheduling, operational planning and integration of renewable energy. We propose a transfer learning method using a CNN–LSTM universal model trained on a subset of households and adapted through fine-tuning, combined with efficient hyper-parameter optimization. Experiments on daily consumption data show a 68–85% reduction in training time compared to existing conventional training method, with statistically lower average short-term prediction error and marginal long-term deviation, confirming the effectiveness of the proposed method for efficient, adaptable consumption forecasting.
+Achieving efficient and accurate forecasting of household electricity consumption is challenging due to volatile usage patterns and resource-intensive training, yet it is essential for grid scheduling, operational planning and integration of renewable energy. We propose a transfer learning method using a CNN–LSTM universal model trained on a subset of households and adapted through fine-tuning, combined with efficient hyper-parameter optimization. Experiments on daily consumption data show a 67–84\% reduction in training time compared to existing conventional training method, with statistically lower average short-term prediction error and marginal long-term deviation, confirming the effectiveness of the proposed method for efficient, adaptable consumption forecasting.
 
 ## Methodology
 
